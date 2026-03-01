@@ -32,7 +32,7 @@ Strong foundation in algorithms, operating systems, and distributed systems.
 - Helm
 - Git
 
-### 🌐 Web
+### 🌐 Web (General Knowledge)
 - Django
 - JavaScript
 - HTML / CSS
