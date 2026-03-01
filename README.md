@@ -3,8 +3,6 @@
 
 ---
 
-## 🚀 About Me
-
 ## 👋 Hi, I'm Nashaat
 
 🎓 Software Engineering Student (GPA 90)  
@@ -13,8 +11,8 @@
 
 I build scalable backend systems using Java, Spring Boot, and cloud-native technologies.  
 Strong foundation in algorithms, operating systems, and distributed systems.
-
 🚀 Currently seeking my first full-time Software Engineering role, focused on backend, infrastructure, or distributed systems.
+
 ---
 
 ## 🛠 Tech Stack
