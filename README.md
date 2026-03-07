@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nashaat Abu Alkean</h1>
+<h1 align="center">Hi 👋, I'm Nashaat Alkean</h1>
 <h3 align="center">Software Engineering Student | Backend & Microservices Enthusiast</h3>
 
 ---
