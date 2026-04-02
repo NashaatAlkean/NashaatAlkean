@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nashaat Alkean</h1>
-<h3 align="center">Software Engineering Student | Backend & Microservices Enthusiast</h3>
+<h3 align="center">Junior Software Engineering  | Backend & Microservices Enthusiast</h3>
 
 ---
 
