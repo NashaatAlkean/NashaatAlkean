@@ -5,7 +5,7 @@
 
 ## 👋 Hi, I'm Nashaat
 
-🎓 Software Engineering Student (GPA 90)  
+🎓 Junior Software Engineering (GPA 90)  
 ⚙️ Backend | Microservices | DevOps  
 🌍 Based in Israel  
 
