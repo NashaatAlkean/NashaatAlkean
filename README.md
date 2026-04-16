@@ -96,9 +96,7 @@ Arabic | Hebrew | English
 ## 📫 Connect With Me
 
 - 📧 Email: nashaatalkean@gmail.com
-- 💼 LinkedIn: [Add Your Link]
-- 💻 GitHub: https://github.com/YOUR_USERNAME
-
+- 💼 LinkedIn: https://www.linkedin.com/in/nashaatalkean/
 ---
 
 ⭐ Always open to Internship / Junior Backend opportunities.
